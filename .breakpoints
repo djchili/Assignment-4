@@ -1,5 +1,21 @@
 {
   "files": {
+    "nextjs-blog/components/layout.js": [
+      {
+        "id": "8733e449-7cce-43f4-8676-d461cf2d5e99",
+        "line": 73,
+        "version": 2097,
+        "index": 2040
+      }
+    ],
+    "nextjs-blog/posts/ssg-ssr.md": [
+      {
+        "id": "70dfd000-64b3-4659-937d-020b0782df3d",
+        "line": 8,
+        "version": 1075,
+        "index": 380
+      }
+    ],
     "nextjs-blog/styles/utils.module.css": [
       {
         "id": "9d8f4f87-7949-4a71-8ce9-e614b3d1ca25",
