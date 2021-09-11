@@ -3,16 +3,24 @@
     "nextjs-blog/components/layout.js": [
       {
         "id": "8733e449-7cce-43f4-8676-d461cf2d5e99",
-        "line": 73,
-        "version": 2097,
-        "index": 2040
+        "line": 72,
+        "version": 2108,
+        "index": 2033
+      }
+    ],
+    "nextjs-blog/pages/posts/[id].js": [
+      {
+        "id": "82780115-4dd9-4ba5-be17-220d4734bed0",
+        "line": 14,
+        "version": 1878,
+        "index": 395
       }
     ],
     "nextjs-blog/posts/ssg-ssr.md": [
       {
         "id": "70dfd000-64b3-4659-937d-020b0782df3d",
         "line": 8,
-        "version": 1075,
+        "version": 1115,
         "index": 380
       }
     ],
@@ -20,7 +28,7 @@
       {
         "id": "9d8f4f87-7949-4a71-8ce9-e614b3d1ca25",
         "line": 1,
-        "version": 444,
+        "version": 472,
         "index": 0
       }
     ]
