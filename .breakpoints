@@ -4,15 +4,23 @@
       {
         "id": "8733e449-7cce-43f4-8676-d461cf2d5e99",
         "line": 72,
-        "version": 2108,
+        "version": 2111,
         "index": 2033
+      }
+    ],
+    "nextjs-blog/node_modules/next/dist/pages/_error.js.map": [
+      {
+        "id": "151e76c3-7002-4348-9a89-5717edf0fa9c",
+        "line": 1,
+        "version": 1,
+        "index": 0
       }
     ],
     "nextjs-blog/pages/posts/[id].js": [
       {
         "id": "82780115-4dd9-4ba5-be17-220d4734bed0",
         "line": 14,
-        "version": 1878,
+        "version": 1880,
         "index": 395
       }
     ],
